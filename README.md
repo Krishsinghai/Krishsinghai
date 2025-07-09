@@ -13,10 +13,9 @@
 
 ## 📌 About Me
 
-👋 Hey there! I'm **Your Name**, a passionate developer specializing in web & software development.
+👋 Hey there! I'm **Krish Singhai**, a passionate developer specializing in web & software development.
 
 - 🌱 I’m currently learning: MERN Stack, DevOps
-- 🔭 I’m currently working on: [Your Project Name](#)
 - 💬 Ask me about: Web Dev, DBMS, DSA, React, Node.js
 - 💼 Open to: Internships, Freelance & Collabs
 - 🧠 Fun fact: I can write code faster than I make coffee ☕
