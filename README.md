@@ -1,6 +1,6 @@
 <!-- Profile Banner / Hero Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=1AB4F7&width=435&lines=Hi%2C+I'm+Your+Name+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;Developer+%7C+Engineer+%7C+Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=1AB4F7&width=435&lines=Hi%2C+I'm+Krish+Singhai+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;Developer+%7C+Engineer+%7C+Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
