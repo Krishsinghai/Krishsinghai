@@ -19,7 +19,7 @@
 - 💬 Ask me about: Web Dev, DBMS, DSA, React, Node.js
 - 💼 Open to: Internships, Freelance & Collabs
 - 🧠 Fun fact: I can write code faster than I make coffee ☕
-- 📫 Reach me at: [your.email@example.com](mailto:your.email@example.com)
+- 📫 Reach me at: [singhaikrish769@gmail.com](mailto:singhaikrish769@gmail.com)
 
 ---
 
